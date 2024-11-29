@@ -36,14 +36,44 @@ Alumni can provide feedback on the platform’s features and the events they par
 
 
 ## Proposed Solution / Architecture Diagram:
+![image](https://github.com/user-attachments/assets/32f06e49-bf15-4b18-a0ee-4bcfca64526c)
 
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/d7533365-451e-414d-9d7e-db0bfed6f466)
+
 
 
 ## Technology Stack
+Frontend: React.js, HTML, CSS
+
+Backend: Node.js
+
+Database: PostgreSQL
+
+Mapping/Location: Google Maps API
+
+Authentication: Firebase Authentication
+
+Version Control: Git
+
+API Testing: Postman or Insomnia
 
 
 ## Dependencies
+Platform Development: 30 days
+
+User Registration and Directory: 10 days
+
+Donation Portal: 10 days
+
+Networking Features: 15 days
+
+Job Portal: 10 days
+
+Events Management: 5 days
+
+Budget: Rs. 75,000
+
 
